@@ -1,0 +1,5 @@
+export { default as bg } from '../public/images/bg.jpg'
+export { default as hero } from '../public/images/hero.png'
+export { default as enemy } from '../public/images/enemy.png'
+export { default as bullet } from '../public/images/bullet.png'
+export const explosion = '../public/images/explosion.json'
